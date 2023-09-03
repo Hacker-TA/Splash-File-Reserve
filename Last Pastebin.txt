@@ -1,49 +1,64 @@
 [Info]
-files=6
+files=7
 
 [Splash]
 Name=Splash.exe
-Link=https://splash.xcdto.website/Splash.exe
-Hash=4dd10b6ad5bbf09dcd16390b0b4d6858
+Link=https://xcdto.xyz/files/Splash.exe
+Hash=e23860deb51c558c11d57e3e060228b1
 
 [ZipBin]
 Name=bin.zip
-Link=https://cdn.discordapp.com/attachments/764776538012647435/879733879194390538/bin.zip
+Link=https://xcdto.xyz/files/bin.zip
 
 [ZipScripts]
 Name=Scripts.zip
-Link=https://cdn.discordapp.com/attachments/764776538012647435/879442864461996042/Scripts.zip
+Link=https://xcdto.xyz/files/Scripts.zip
 
 [ZipOther]
 Name=OtherDirectory.zip
-Link=https://cdn.discordapp.com/attachments/884137212696989756/913147439689633802/OtherDirectory.zip
+Link=https://xcdto.xyz/files/OtherDirectory.zip
+
+[LocalizationEN]
+Name=en/Splash.resources.dll
+Link=https://xcdto.xyz/files/en/Splash.resources.dll
+Hash=dcbc45b6c6a99c6dfacbbb168e7d6463
+
+[LocalizationRU]
+Name=ru/Splash.resources.dll
+Link=https://xcdto.xyz/files/ru/Splash.resources.dll
+Hash=a454be4c6d2f5ca14b6234e5f0b07aff
 
 [File1]
 Name=Guna.UI2.dll
-Link=https://cdn.discordapp.com/attachments/764776538012647435/879416443358285894/Guna.UI2.dll
-Hash=cba0a73ef19e6e3a9eac3305d887f410
+Link=https://xcdto.xyz/files/Guna.UI2.dll
+Hash=4499dfdd7f49f26e550b45b5c5021ffb
 
 [File2]
 Name=Bunifu_UI_v1.5.3.dll
-Link=https://cdn.discordapp.com/attachments/764776538012647435/879414633360920586/Bunifu_UI_v1.5.3.dll
+Link=https://xcdto.xyz/files/Bunifu_UI_v1.5.3.dll
 Hash=e0ef2817ee5a7c8cd1eb837195768bd2
 
 [File3]
 Name=Newtonsoft.Json.dll
-Link=https://cdn.discordapp.com/attachments/764776538012647435/879416687802327120/Newtonsoft.Json.dll
+Link=https://xcdto.xyz/files/Newtonsoft.Json.dll
 Hash=081d9558bbb7adce142da153b2d5577a
 
 [File4]
 Name=ScintillaNET.dll
-Link=https://cdn.discordapp.com/attachments/764776538012647435/879416886478123008/ScintillaNET.dll
+Link=https://xcdto.xyz/files/ScintillaNET.dll
 Hash=9166536c31f4e725e6befe85e2889a4b
 
 [File5]
-Name=PuppyMilkV3.exe
-Link=https://cdn.discordapp.com/attachments/764776538012647435/879736913764945960/PuppyMilkV3.exe
-Hash=dfba9947aef541ffe76e7a905cdce0b8
+Name=HtmlAgilityPack.dll
+Link=https://xcdto.xyz/files/HtmlAgilityPack.dll
+Hash=2903df76fe0a04bfddc2a5a71a07cdb7
 
 [File6]
-Name=HtmlAgilityPack.dll
-Link=https://cdn.discordapp.com/attachments/884137212696989756/904807169457803354/HtmlAgilityPack.dll
-Hash=2903df76fe0a04bfddc2a5a71a07cdb7
+Name=Splash Direct.exe
+Link=https://xcdto.xyz/files/Splash%20Direct.exe
+Hash=8803d43626e4cd0eaec3c9c478232e24
+
+[File7]
+Name=injector.dll
+Link=https://xcdto.xyz/files/injector.dll
+Hash=ef0184fd418630983422ac8185d1ce87
